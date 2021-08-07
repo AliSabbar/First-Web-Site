@@ -125,7 +125,7 @@ body {
 /* End Header */
 /* Start Landing Section */
 .landing {
-  background-image: url(pic/landingimg.jpg);
+  background-image: url("https://gdurl.com/uGqS");
   background-size: cover;
   background-position: center;
   height: calc(100vh - 64px);
